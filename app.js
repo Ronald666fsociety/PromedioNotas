@@ -2,7 +2,7 @@
 // Sistema de Promedio de Notas
 // ===================================
 
-const nota1 = 70;
+const nota1 = 95;
 const nota2 = 85;
 const nota3 = 90;
 
